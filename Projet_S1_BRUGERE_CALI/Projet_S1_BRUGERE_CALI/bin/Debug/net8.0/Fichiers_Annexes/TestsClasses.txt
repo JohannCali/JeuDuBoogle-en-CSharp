@@ -1,0 +1,51 @@
+            /* Tests Classe Joueur*/
+
+            //List <string> motstrouvés = new List <string> { "patate", "carrotte", "orange" };
+            //Joueur joueur1 = new Joueur("Robert", 0, motstrouvés, 0);
+            //Console.WriteLine(joueur1.ToString());
+            //Console.WriteLine(joueur1.Nom + " a trouvé pomme ? : " + joueur1.Contain("pomme"));
+            //Console.WriteLine(joueur1.Nom + " a trouvé carrotte ? : " + joueur1.Contain("carrotte"));
+            //joueur1.Add_Mot("pomme");
+
+            //Console.WriteLine(joueur1.ToString());
+            //Console.WriteLine(joueur1.Nom + "a trouvé pomme ? : " + joueur1.Contain("pomme"));
+
+            /* Tests Classe Fichier */
+
+            //Fichier.AfficherMatrice(Fichier.RécupererDonnéesFichierLettres(fichierlettrestxt));
+            //Fichier.AfficherTableau(Fichier.TableauLettres(fichierlettrestxt));
+            //AfficherTableau(FichierDicoFrancais.TriFusion(FichierDicoFrancais));
+            //string [] Fr = FichierDicoFrancais.TriFusion(FichierDicoFrancais);
+            //File.WriteAllLines("Fichiers_Annexes/DicoFrTrié.txt", Fr);
+            //string[] Ang = FichierDicoAnglais.TriFusion(FichierDicoAnglais);
+            //File.WriteAllLines("Fichiers_Annexes/DicoAngTrié.txt", Ang); 
+
+
+
+
+            /* Tests Classe Dé */
+
+            //Dé dé1 = new Dé(Fichier.TableauLettres(FichierLettrestxt).ToList());
+            //Console.WriteLine(dé1.TableauToString(dé1.TableauLettresFaces));
+
+            //Console.WriteLine(dé1);
+
+            /* Test Classe Dictionnaire */
+
+            // Dictionnaire DicoFrancais = new Dictionnaire(1);
+            //Dictionnaire DicoAnglais = new Dictionnaire("anglais");
+            //Console.WriteLine(DicoAnglais.Langue);
+
+            /* Test Classe Plateau */
+
+            //Plateau plateau = new Plateau(dé1.LettreFaceVisible, Fichier.TableauLettres(FichierLettrestxt).ToList(), dé1);
+            //plateau.GenererListeGrille(); // Génère la liste
+            //plateau.GenererMatrice();     // Génère la matrice
+            //Console.WriteLine(plateau.ToString());
+
+            //Console.WriteLine("Trouvez un mot ! ");
+            //string mot = (Convert.ToString(Console.ReadLine()));
+
+            //Console.WriteLine(plateau.Test_Plateau(mot, plateau.Matrice));
+
+            /* Test Classe Jeu */

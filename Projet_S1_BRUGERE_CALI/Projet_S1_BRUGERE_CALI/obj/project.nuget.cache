@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "wKkpQc+Rbn9fxxOulqNZ8QgeYlh94tVs7sJq9ehm3ndOw9+vXpdxgQFa1s3fMhagnxddV/DjvISTT4oAgS4mgw==",
+  "success": true,
+  "projectFilePath": "C:\\Applications\\InformatiqueC#\\A2\\Projet_S1_BRUGERE_CALI\\Projet_S1_BRUGERE_CALI\\Projet_S1_BRUGERE_CALI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\j14ca\\.nuget\\packages\\microsoft.win32.systemevents\\9.0.0\\microsoft.win32.systemevents.9.0.0.nupkg.sha512",
+    "C:\\Users\\j14ca\\.nuget\\packages\\system.drawing.common\\9.0.0\\system.drawing.common.9.0.0.nupkg.sha512",
+    "C:\\Users\\j14ca\\.nuget\\packages\\wordcloudsharp\\1.1.0\\wordcloudsharp.1.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

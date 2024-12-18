@@ -1,0 +1,52 @@
+C:\Applications\Informatique C#\A2\Projet_S1_BRUGERE_CALI\Projet_S1_BRUGERE_CALI\Projet_S1_BRUGERE_CALI\bin\Debug\net6.0\Projet_S1_BRUGERE_CALI.exe
+C:\Applications\Informatique C#\A2\Projet_S1_BRUGERE_CALI\Projet_S1_BRUGERE_CALI\Projet_S1_BRUGERE_CALI\bin\Debug\net6.0\Projet_S1_BRUGERE_CALI.deps.json
+C:\Applications\Informatique C#\A2\Projet_S1_BRUGERE_CALI\Projet_S1_BRUGERE_CALI\Projet_S1_BRUGERE_CALI\bin\Debug\net6.0\Projet_S1_BRUGERE_CALI.runtimeconfig.json
+C:\Applications\Informatique C#\A2\Projet_S1_BRUGERE_CALI\Projet_S1_BRUGERE_CALI\Projet_S1_BRUGERE_CALI\bin\Debug\net6.0\Projet_S1_BRUGERE_CALI.dll
+C:\Applications\Informatique C#\A2\Projet_S1_BRUGERE_CALI\Projet_S1_BRUGERE_CALI\Projet_S1_BRUGERE_CALI\bin\Debug\net6.0\Projet_S1_BRUGERE_CALI.pdb
+C:\Applications\Informatique C#\A2\Projet_S1_BRUGERE_CALI\Projet_S1_BRUGERE_CALI\Projet_S1_BRUGERE_CALI\obj\Debug\net6.0\Projet_S1_BRUGERE_CALI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Applications\Informatique C#\A2\Projet_S1_BRUGERE_CALI\Projet_S1_BRUGERE_CALI\Projet_S1_BRUGERE_CALI\obj\Debug\net6.0\Projet_S1_BRUGERE_CALI.AssemblyInfoInputs.cache
+C:\Applications\Informatique C#\A2\Projet_S1_BRUGERE_CALI\Projet_S1_BRUGERE_CALI\Projet_S1_BRUGERE_CALI\obj\Debug\net6.0\Projet_S1_BRUGERE_CALI.AssemblyInfo.cs
+C:\Applications\Informatique C#\A2\Projet_S1_BRUGERE_CALI\Projet_S1_BRUGERE_CALI\Projet_S1_BRUGERE_CALI\obj\Debug\net6.0\Projet_S1_BRUGERE_CALI.csproj.CoreCompileInputs.cache
+C:\Applications\Informatique C#\A2\Projet_S1_BRUGERE_CALI\Projet_S1_BRUGERE_CALI\Projet_S1_BRUGERE_CALI\obj\Debug\net6.0\Projet_S1_BRUGERE_CALI.dll
+C:\Applications\Informatique C#\A2\Projet_S1_BRUGERE_CALI\Projet_S1_BRUGERE_CALI\Projet_S1_BRUGERE_CALI\obj\Debug\net6.0\refint\Projet_S1_BRUGERE_CALI.dll
+C:\Applications\Informatique C#\A2\Projet_S1_BRUGERE_CALI\Projet_S1_BRUGERE_CALI\Projet_S1_BRUGERE_CALI\obj\Debug\net6.0\Projet_S1_BRUGERE_CALI.pdb
+C:\Applications\Informatique C#\A2\Projet_S1_BRUGERE_CALI\Projet_S1_BRUGERE_CALI\Projet_S1_BRUGERE_CALI\obj\Debug\net6.0\Projet_S1_BRUGERE_CALI.genruntimeconfig.cache
+C:\Applications\Informatique C#\A2\Projet_S1_BRUGERE_CALI\Projet_S1_BRUGERE_CALI\Projet_S1_BRUGERE_CALI\obj\Debug\net6.0\ref\Projet_S1_BRUGERE_CALI.dll
+C:\Applications\Informatique C#\A2\Projet_S1_BRUGERE_CALI\Projet_S1_BRUGERE_CALI\bin\Debug\net6.0\Projet_S1_BRUGERE_CALI.exe
+C:\Applications\Informatique C#\A2\Projet_S1_BRUGERE_CALI\Projet_S1_BRUGERE_CALI\bin\Debug\net6.0\Projet_S1_BRUGERE_CALI.deps.json
+C:\Applications\Informatique C#\A2\Projet_S1_BRUGERE_CALI\Projet_S1_BRUGERE_CALI\bin\Debug\net6.0\Projet_S1_BRUGERE_CALI.runtimeconfig.json
+C:\Applications\Informatique C#\A2\Projet_S1_BRUGERE_CALI\Projet_S1_BRUGERE_CALI\bin\Debug\net6.0\Projet_S1_BRUGERE_CALI.dll
+C:\Applications\Informatique C#\A2\Projet_S1_BRUGERE_CALI\Projet_S1_BRUGERE_CALI\bin\Debug\net6.0\Projet_S1_BRUGERE_CALI.pdb
+C:\Applications\Informatique C#\A2\Projet_S1_BRUGERE_CALI\Projet_S1_BRUGERE_CALI\obj\Debug\net6.0\Projet_S1_BRUGERE_CALI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Applications\Informatique C#\A2\Projet_S1_BRUGERE_CALI\Projet_S1_BRUGERE_CALI\obj\Debug\net6.0\Projet_S1_BRUGERE_CALI.AssemblyInfoInputs.cache
+C:\Applications\Informatique C#\A2\Projet_S1_BRUGERE_CALI\Projet_S1_BRUGERE_CALI\obj\Debug\net6.0\Projet_S1_BRUGERE_CALI.AssemblyInfo.cs
+C:\Applications\Informatique C#\A2\Projet_S1_BRUGERE_CALI\Projet_S1_BRUGERE_CALI\obj\Debug\net6.0\Projet_S1_BRUGERE_CALI.csproj.CoreCompileInputs.cache
+C:\Applications\Informatique C#\A2\Projet_S1_BRUGERE_CALI\Projet_S1_BRUGERE_CALI\obj\Debug\net6.0\Projet_S1_BRUGERE_CALI.dll
+C:\Applications\Informatique C#\A2\Projet_S1_BRUGERE_CALI\Projet_S1_BRUGERE_CALI\obj\Debug\net6.0\refint\Projet_S1_BRUGERE_CALI.dll
+C:\Applications\Informatique C#\A2\Projet_S1_BRUGERE_CALI\Projet_S1_BRUGERE_CALI\obj\Debug\net6.0\Projet_S1_BRUGERE_CALI.pdb
+C:\Applications\Informatique C#\A2\Projet_S1_BRUGERE_CALI\Projet_S1_BRUGERE_CALI\obj\Debug\net6.0\Projet_S1_BRUGERE_CALI.genruntimeconfig.cache
+C:\Applications\Informatique C#\A2\Projet_S1_BRUGERE_CALI\Projet_S1_BRUGERE_CALI\obj\Debug\net6.0\ref\Projet_S1_BRUGERE_CALI.dll
+C:\Applications\InformatiqueC#\A2\Projet_S1_BRUGERE_CALI\Projet_S1_BRUGERE_CALI\bin\Debug\net6.0\Projet_S1_BRUGERE_CALI.exe
+C:\Applications\InformatiqueC#\A2\Projet_S1_BRUGERE_CALI\Projet_S1_BRUGERE_CALI\bin\Debug\net6.0\Projet_S1_BRUGERE_CALI.deps.json
+C:\Applications\InformatiqueC#\A2\Projet_S1_BRUGERE_CALI\Projet_S1_BRUGERE_CALI\bin\Debug\net6.0\Projet_S1_BRUGERE_CALI.runtimeconfig.json
+C:\Applications\InformatiqueC#\A2\Projet_S1_BRUGERE_CALI\Projet_S1_BRUGERE_CALI\bin\Debug\net6.0\Projet_S1_BRUGERE_CALI.dll
+C:\Applications\InformatiqueC#\A2\Projet_S1_BRUGERE_CALI\Projet_S1_BRUGERE_CALI\bin\Debug\net6.0\Projet_S1_BRUGERE_CALI.pdb
+C:\Applications\InformatiqueC#\A2\Projet_S1_BRUGERE_CALI\Projet_S1_BRUGERE_CALI\obj\Debug\net6.0\Projet_S1_BRUGERE_CALI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Applications\InformatiqueC#\A2\Projet_S1_BRUGERE_CALI\Projet_S1_BRUGERE_CALI\obj\Debug\net6.0\Projet_S1_BRUGERE_CALI.AssemblyInfoInputs.cache
+C:\Applications\InformatiqueC#\A2\Projet_S1_BRUGERE_CALI\Projet_S1_BRUGERE_CALI\obj\Debug\net6.0\Projet_S1_BRUGERE_CALI.AssemblyInfo.cs
+C:\Applications\InformatiqueC#\A2\Projet_S1_BRUGERE_CALI\Projet_S1_BRUGERE_CALI\obj\Debug\net6.0\Projet_S1_BRUGERE_CALI.csproj.CoreCompileInputs.cache
+C:\Applications\InformatiqueC#\A2\Projet_S1_BRUGERE_CALI\Projet_S1_BRUGERE_CALI\obj\Debug\net6.0\Projet_S1_BRUGERE_CALI.dll
+C:\Applications\InformatiqueC#\A2\Projet_S1_BRUGERE_CALI\Projet_S1_BRUGERE_CALI\obj\Debug\net6.0\refint\Projet_S1_BRUGERE_CALI.dll
+C:\Applications\InformatiqueC#\A2\Projet_S1_BRUGERE_CALI\Projet_S1_BRUGERE_CALI\obj\Debug\net6.0\Projet_S1_BRUGERE_CALI.pdb
+C:\Applications\InformatiqueC#\A2\Projet_S1_BRUGERE_CALI\Projet_S1_BRUGERE_CALI\obj\Debug\net6.0\Projet_S1_BRUGERE_CALI.genruntimeconfig.cache
+C:\Applications\InformatiqueC#\A2\Projet_S1_BRUGERE_CALI\Projet_S1_BRUGERE_CALI\obj\Debug\net6.0\ref\Projet_S1_BRUGERE_CALI.dll
+C:\Applications\InformatiqueC#\A2\Projet_S1_BRUGERE_CALI\Projet_S1_BRUGERE_CALI\obj\Debug\net6.0\Projet_S1_BRUGERE_CALI.csproj.AssemblyReference.cache
+C:\Applications\InformatiqueC#\A2\Projet_S1_BRUGERE_CALI\Projet_S1_BRUGERE_CALI\bin\Debug\net6.0\WordCloudSharp.dll
+C:\Applications\InformatiqueC#\A2\Projet_S1_BRUGERE_CALI\Projet_S1_BRUGERE_CALI\obj\Debug\net6.0\Projet_S.7E1CB124.Up2Date
+C:\Applications\InformatiqueC#\A2\Projet_S1_BRUGERE_CALI\Projet_S1_BRUGERE_CALI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Applications\InformatiqueC#\A2\Projet_S1_BRUGERE_CALI\Projet_S1_BRUGERE_CALI\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Applications\InformatiqueC#\A2\Projet_S1_BRUGERE_CALI\Projet_S1_BRUGERE_CALI\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Applications\InformatiqueC#\A2\Projet_S1_BRUGERE_CALI\Projet_S1_BRUGERE_CALI\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Applications\InformatiqueC#\A2\Projet_S1_BRUGERE_CALI\Projet_S1_BRUGERE_CALI\bin\Debug\net6.0\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Applications\InformatiqueC#\A2\Projet_S1_BRUGERE_CALI\Projet_S1_BRUGERE_CALI\bin\Debug\net6.0\TestsUnitaires.dll
+C:\Applications\InformatiqueC#\A2\Projet_S1_BRUGERE_CALI\Projet_S1_BRUGERE_CALI\bin\Debug\net6.0\TestsUnitaires.pdb

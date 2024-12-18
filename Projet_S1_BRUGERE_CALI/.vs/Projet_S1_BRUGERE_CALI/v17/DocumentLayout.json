@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Applications\\InformatiqueC#\\A2\\Projet_S1_BRUGERE_CALI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3A65DE5-AACE-4B8F-A75B-414B796D203C}|Projet_S1_BRUGERE_CALI\\Projet_S1_BRUGERE_CALI.csproj|c:\\applications\\informatiquec#\\a2\\projet_s1_brugere_cali\\projet_s1_brugere_cali\\dictionnaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3A65DE5-AACE-4B8F-A75B-414B796D203C}|Projet_S1_BRUGERE_CALI\\Projet_S1_BRUGERE_CALI.csproj|solutionrelative:projet_s1_brugere_cali\\dictionnaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35A47A75-7CF9-4763-8828-A68D0162614D}|TestsUnitaires\\TestsUnitaires.csproj|c:\\applications\\informatiquec#\\a2\\projet_s1_brugere_cali\\testsunitaires\\unitest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35A47A75-7CF9-4763-8828-A68D0162614D}|TestsUnitaires\\TestsUnitaires.csproj|solutionrelative:testsunitaires\\unitest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3A65DE5-AACE-4B8F-A75B-414B796D203C}|Projet_S1_BRUGERE_CALI\\Projet_S1_BRUGERE_CALI.csproj|c:\\applications\\informatiquec#\\a2\\projet_s1_brugere_cali\\projet_s1_brugere_cali\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3A65DE5-AACE-4B8F-A75B-414B796D203C}|Projet_S1_BRUGERE_CALI\\Projet_S1_BRUGERE_CALI.csproj|solutionrelative:projet_s1_brugere_cali\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3A65DE5-AACE-4B8F-A75B-414B796D203C}|Projet_S1_BRUGERE_CALI\\Projet_S1_BRUGERE_CALI.csproj|c:\\applications\\informatiquec#\\a2\\projet_s1_brugere_cali\\projet_s1_brugere_cali\\joueur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3A65DE5-AACE-4B8F-A75B-414B796D203C}|Projet_S1_BRUGERE_CALI\\Projet_S1_BRUGERE_CALI.csproj|solutionrelative:projet_s1_brugere_cali\\joueur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3A65DE5-AACE-4B8F-A75B-414B796D203C}|Projet_S1_BRUGERE_CALI\\Projet_S1_BRUGERE_CALI.csproj|c:\\applications\\informatiquec#\\a2\\projet_s1_brugere_cali\\projet_s1_brugere_cali\\d\u00E9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3A65DE5-AACE-4B8F-A75B-414B796D203C}|Projet_S1_BRUGERE_CALI\\Projet_S1_BRUGERE_CALI.csproj|solutionrelative:projet_s1_brugere_cali\\d\u00E9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3A65DE5-AACE-4B8F-A75B-414B796D203C}|Projet_S1_BRUGERE_CALI\\Projet_S1_BRUGERE_CALI.csproj|c:\\applications\\informatiquec#\\a2\\projet_s1_brugere_cali\\projet_s1_brugere_cali\\jeu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3A65DE5-AACE-4B8F-A75B-414B796D203C}|Projet_S1_BRUGERE_CALI\\Projet_S1_BRUGERE_CALI.csproj|solutionrelative:projet_s1_brugere_cali\\jeu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3A65DE5-AACE-4B8F-A75B-414B796D203C}|Projet_S1_BRUGERE_CALI\\Projet_S1_BRUGERE_CALI.csproj|c:\\applications\\informatiquec#\\a2\\projet_s1_brugere_cali\\projet_s1_brugere_cali\\nuage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3A65DE5-AACE-4B8F-A75B-414B796D203C}|Projet_S1_BRUGERE_CALI\\Projet_S1_BRUGERE_CALI.csproj|solutionrelative:projet_s1_brugere_cali\\nuage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3A65DE5-AACE-4B8F-A75B-414B796D203C}|Projet_S1_BRUGERE_CALI\\Projet_S1_BRUGERE_CALI.csproj|c:\\applications\\informatiquec#\\a2\\projet_s1_brugere_cali\\projet_s1_brugere_cali\\fichier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3A65DE5-AACE-4B8F-A75B-414B796D203C}|Projet_S1_BRUGERE_CALI\\Projet_S1_BRUGERE_CALI.csproj|solutionrelative:projet_s1_brugere_cali\\fichier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3A65DE5-AACE-4B8F-A75B-414B796D203C}|Projet_S1_BRUGERE_CALI\\Projet_S1_BRUGERE_CALI.csproj|c:\\applications\\informatiquec#\\a2\\projet_s1_brugere_cali\\projet_s1_brugere_cali\\plateau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3A65DE5-AACE-4B8F-A75B-414B796D203C}|Projet_S1_BRUGERE_CALI\\Projet_S1_BRUGERE_CALI.csproj|solutionrelative:projet_s1_brugere_cali\\plateau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UniTest1.cs",
+              "DocumentMoniker": "C:\\Applications\\InformatiqueC#\\A2\\Projet_S1_BRUGERE_CALI\\TestsUnitaires\\UniTest1.cs",
+              "RelativeDocumentMoniker": "TestsUnitaires\\UniTest1.cs",
+              "ToolTip": "C:\\Applications\\InformatiqueC#\\A2\\Projet_S1_BRUGERE_CALI\\TestsUnitaires\\UniTest1.cs",
+              "RelativeToolTip": "TestsUnitaires\\UniTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAiwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T13:28:29.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Nuage.cs",
+              "DocumentMoniker": "C:\\Applications\\InformatiqueC#\\A2\\Projet_S1_BRUGERE_CALI\\Projet_S1_BRUGERE_CALI\\Nuage.cs",
+              "RelativeDocumentMoniker": "Projet_S1_BRUGERE_CALI\\Nuage.cs",
+              "ToolTip": "C:\\Applications\\InformatiqueC#\\A2\\Projet_S1_BRUGERE_CALI\\Projet_S1_BRUGERE_CALI\\Nuage.cs",
+              "RelativeToolTip": "Projet_S1_BRUGERE_CALI\\Nuage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T10:19:44.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Fichier.cs",
+              "DocumentMoniker": "C:\\Applications\\InformatiqueC#\\A2\\Projet_S1_BRUGERE_CALI\\Projet_S1_BRUGERE_CALI\\Fichier.cs",
+              "RelativeDocumentMoniker": "Projet_S1_BRUGERE_CALI\\Fichier.cs",
+              "ToolTip": "C:\\Applications\\InformatiqueC#\\A2\\Projet_S1_BRUGERE_CALI\\Projet_S1_BRUGERE_CALI\\Fichier.cs",
+              "RelativeToolTip": "Projet_S1_BRUGERE_CALI\\Fichier.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAswD0AAAB6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T14:51:31.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Plateau.cs",
+              "DocumentMoniker": "C:\\Applications\\InformatiqueC#\\A2\\Projet_S1_BRUGERE_CALI\\Projet_S1_BRUGERE_CALI\\Plateau.cs",
+              "RelativeDocumentMoniker": "Projet_S1_BRUGERE_CALI\\Plateau.cs",
+              "ToolTip": "C:\\Applications\\InformatiqueC#\\A2\\Projet_S1_BRUGERE_CALI\\Projet_S1_BRUGERE_CALI\\Plateau.cs",
+              "RelativeToolTip": "Projet_S1_BRUGERE_CALI\\Plateau.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T08:40:43.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dictionnaire.cs",
+              "DocumentMoniker": "C:\\Applications\\InformatiqueC#\\A2\\Projet_S1_BRUGERE_CALI\\Projet_S1_BRUGERE_CALI\\Dictionnaire.cs",
+              "RelativeDocumentMoniker": "Projet_S1_BRUGERE_CALI\\Dictionnaire.cs",
+              "ToolTip": "C:\\Applications\\InformatiqueC#\\A2\\Projet_S1_BRUGERE_CALI\\Projet_S1_BRUGERE_CALI\\Dictionnaire.cs",
+              "RelativeToolTip": "Projet_S1_BRUGERE_CALI\\Dictionnaire.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T08:40:44.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "D\u00E9.cs",
+              "DocumentMoniker": "C:\\Applications\\InformatiqueC#\\A2\\Projet_S1_BRUGERE_CALI\\Projet_S1_BRUGERE_CALI\\D\u00E9.cs",
+              "RelativeDocumentMoniker": "Projet_S1_BRUGERE_CALI\\D\u00E9.cs",
+              "ToolTip": "C:\\Applications\\InformatiqueC#\\A2\\Projet_S1_BRUGERE_CALI\\Projet_S1_BRUGERE_CALI\\D\u00E9.cs",
+              "RelativeToolTip": "Projet_S1_BRUGERE_CALI\\D\u00E9.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T08:40:44.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Joueur.cs",
+              "DocumentMoniker": "C:\\Applications\\InformatiqueC#\\A2\\Projet_S1_BRUGERE_CALI\\Projet_S1_BRUGERE_CALI\\Joueur.cs",
+              "RelativeDocumentMoniker": "Projet_S1_BRUGERE_CALI\\Joueur.cs",
+              "ToolTip": "C:\\Applications\\InformatiqueC#\\A2\\Projet_S1_BRUGERE_CALI\\Projet_S1_BRUGERE_CALI\\Joueur.cs",
+              "RelativeToolTip": "Projet_S1_BRUGERE_CALI\\Joueur.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwFYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T08:40:44.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Jeu.cs",
+              "DocumentMoniker": "C:\\Applications\\InformatiqueC#\\A2\\Projet_S1_BRUGERE_CALI\\Projet_S1_BRUGERE_CALI\\Jeu.cs",
+              "RelativeDocumentMoniker": "Projet_S1_BRUGERE_CALI\\Jeu.cs",
+              "ToolTip": "C:\\Applications\\InformatiqueC#\\A2\\Projet_S1_BRUGERE_CALI\\Projet_S1_BRUGERE_CALI\\Jeu.cs",
+              "RelativeToolTip": "Projet_S1_BRUGERE_CALI\\Jeu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T08:40:43.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Applications\\InformatiqueC#\\A2\\Projet_S1_BRUGERE_CALI\\Projet_S1_BRUGERE_CALI\\Program.cs",
+              "RelativeDocumentMoniker": "Projet_S1_BRUGERE_CALI\\Program.cs",
+              "ToolTip": "C:\\Applications\\InformatiqueC#\\A2\\Projet_S1_BRUGERE_CALI\\Projet_S1_BRUGERE_CALI\\Program.cs",
+              "RelativeToolTip": "Projet_S1_BRUGERE_CALI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T08:40:44.008Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

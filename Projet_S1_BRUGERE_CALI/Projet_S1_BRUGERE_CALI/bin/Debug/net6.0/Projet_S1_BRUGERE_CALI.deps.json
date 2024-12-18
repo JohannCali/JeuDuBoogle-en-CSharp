@@ -1,0 +1,68 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Projet_S1_BRUGERE_CALI/1.0.0": {
+        "dependencies": {
+          "System.Drawing.Common": "9.0.0",
+          "TestsUnitaires": "1.0.0",
+          "WordCloudSharp": "1.1.0"
+        },
+        "runtime": {
+          "Projet_S1_BRUGERE_CALI.dll": {}
+        }
+      },
+      "System.Drawing.Common/9.0.0": {
+        "runtime": {
+          "lib/netstandard2.0/System.Drawing.Common.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.24.52901"
+          }
+        }
+      },
+      "WordCloudSharp/1.1.0": {
+        "runtime": {
+          "lib/netstandard2.0/WordCloudSharp.dll": {
+            "assemblyVersion": "1.1.0.0",
+            "fileVersion": "1.1.0.0"
+          }
+        }
+      },
+      "TestsUnitaires/1.0.0": {
+        "runtime": {
+          "TestsUnitaires.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Projet_S1_BRUGERE_CALI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Drawing.Common/9.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-uoozjI3+dlgKh2onFJcz8aNLh6TRCPlLSh8Dbuljc8CdvqXrxHOVysJlrHvlsOCqceqGBR1wrMPxlnzzhynktw==",
+      "path": "system.drawing.common/9.0.0",
+      "hashPath": "system.drawing.common.9.0.0.nupkg.sha512"
+    },
+    "WordCloudSharp/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-GxVZrLI7tA/814IoXW9D00xhzJZY3YWrcOt1pQhqgsXUMiTjPOIWNmlR/y2YgImerv6kG5Ij8sr5kniHS5OCHg==",
+      "path": "wordcloudsharp/1.1.0",
+      "hashPath": "wordcloudsharp.1.1.0.nupkg.sha512"
+    },
+    "TestsUnitaires/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
