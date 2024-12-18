@@ -1,4 +1,4 @@
-What is Boogle?
+**What is Boogle?**
 
 Boogle is a word game where players find words by connecting adjacent letters on a grid. The goal is to discover as many valid words as possible within a time limit.
 
