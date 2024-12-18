@@ -4,13 +4,13 @@ Boogle is a word game where players find words by connecting adjacent letters on
 
 Rules of the Game
 
-Setup
+**Setup**
 
 The game is played on a 4x4 or 5x5 grid of letters, depending on the variant.
 
 Players can play individually or in groups.
 
-Objective
+**Objective**
 
 Find and record as many words as possible from the grid within the given time limit (typically 3 minutes).
 
@@ -22,8 +22,8 @@ Letters must be adjacent to one another (horizontally, vertically, or diagonally
 
 A single letter cannot be reused in the same word.
 
-Words must appear in a standard dictionary to be valid.
+Words must appear in a standard dictionary to be valid. Two standard dictionaries is a dictionary are provided : one to search words in french and another to search words in english (but the game is entirely in french). The dictionaries might be incomplete. Feel free to add words to the files MotsPossiblesFR.txt and MotsPossiblesEN.txt.
 
-Scoring
+**Scoring**
 
-Words are scored based on their length
+Words are scored based on their length and the letters used in the word. You can see how many points you can earn by each letter in the second column of the file Lettres.txt"
