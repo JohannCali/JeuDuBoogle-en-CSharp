@@ -49,5 +49,5 @@ For a virtual experience of the game, try these **online resources**:
 
 ---
 
-**Enjoy playing Boogle and discovering new words !** 
+### **Enjoy playing Boogle and discovering new words !** :🚀
 
