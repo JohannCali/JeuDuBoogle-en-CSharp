@@ -6,7 +6,7 @@ Rules of the Game
 
 **Setup**
 
-The game is played on a 4x4 or 5x5 grid of letters, depending on the variant.
+The game is played on a 4x4, 5x5, 6x6, 7x7, 8x8 grid of letters, depending what the players choose.
 
 Players can play individually or in groups.
 
